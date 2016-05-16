@@ -4,12 +4,10 @@ title: À propos
 permalink: /a-propos/
 ---
 
-Some information about you!
-
-### More Information
+### Introduction
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Me contacter
 
 [email@domain.com](mailto:email@domain.com)
